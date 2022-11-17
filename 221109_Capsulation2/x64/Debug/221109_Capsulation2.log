@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\82109\source\repos\C++\hyunji_C++\221109_Capsulation2\main.cpp(107,20): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  221109_Capsulation2.vcxproj -> C:\Users\82109\source\repos\C++\hyunji_C++\x64\Debug\221109_Capsulation2.exe
