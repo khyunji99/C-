@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\82109\source\repos\C++\hyunji_C++\221118_UpCasting2\main.cpp(198,17): warning C4154: 배열 식을 삭제했습니다. 포인터로 변환이 제공됩니다.
+  221118_UpCasting2.vcxproj -> C:\Users\82109\source\repos\C++\hyunji_C++\x64\Debug\221118_UpCasting2.exe
